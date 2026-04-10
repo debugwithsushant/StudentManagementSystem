@@ -1,0 +1,42 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+Logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment / Secrets
+appsettings.Development.json
+
+# Optional (if sensitive data inside)
+# appsettings.json
+
+# EF Core temp files
+*.Designer.cs
+
+# Publish output
+publish/
+
+# NuGet
+*.nupkg
+packages/
+
+# Misc
+*.cache
+*.tmp
