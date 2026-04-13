@@ -4,16 +4,6 @@ A fully functional Student Management REST API built with ASP.NET Core, Entity F
 
 ---
 
-## 🏢 Project Info
-
-- **Company:** Zest India IT Services
-- **Role:** .NET Developer
-- **Organized By:** ADVANTO, Pune
-- **Candidate:** Pawar Sushant Hanmant
-- **Email:** sushantpawar1232@gmail.com
-
----
-
 ## 🚀 Technologies Used
 
 - ASP.NET Core 8.0
